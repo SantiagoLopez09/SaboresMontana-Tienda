@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Latte",
+    "categoria": "Bebidas Calientes",
+    "precio": 9500,
+    "stock": 3,
+    "ruta": "latte.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Dolce Canela Latte",
+    "categoria": "Bebidas Calientes",
+    "precio": 10600,
+    "stock": 1,
+    "ruta": "DOLCE CANELA LATTE.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Arequipe Latte",
+    "categoria": "Bebidas Calientes",
+    "precio": 10600,
+    "stock": 2,
+    "ruta": "AREQUIPE LATTE.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Capuccino",
+    "categoria": "Bebidas Calientes",
+    "precio": 7800,
+    "stock": 2,
+    "ruta": "CAPPUCCINO.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Café del día",
+    "categoria": "Bebidas Calientes",
+    "precio": 5900,
+    "stock": 3,
+    "ruta": "ESPRESSO-AMERICANO.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Americano",
+    "categoria": "Bebidas Calientes",
+    "precio": 5800,
+    "stock": 4,
+    "ruta": "ESPRESSO-AMERICANO.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Campesino",
+    "categoria": "Bebidas Calientes",
+    "precio": 7650,
+    "stock": 1,
+    "ruta": "ESPRESSO-AMERICANO.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Expresso Doble",
+    "categoria": "Bebidas Calientes",
+    "precio": 8000,
+    "stock": 3,
+    "ruta": "ESPRESSO DOBLE.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Expresso Sencillo",
+    "categoria": "Bebidas Calientes",
+    "precio": 7500,
+    "stock": 4,
+    "ruta": "ESPRESSO.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Expresso Macchiato",
+    "categoria": "Bebidas Calientes",
+    "precio": 10500,
+    "stock": 1,
+    "ruta": "ESPRESSO MACCHIATO-08.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Flat White",
+    "categoria": "Bebidas Calientes",
+    "precio": 11200,
+    "stock": 3,
+    "ruta": "FLAT WHITE.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Latte Macchiato",
+    "categoria": "Bebidas Calientes",
+    "precio": 11650,
+    "stock": 1,
+    "ruta": "LATTE-MACCHIATO-HOT-VIDRIO-10 (1).png"
+  },
+  {
+    "id": 13,
+    "nombre": "Caramel Macchiato",
+    "categoria": "Bebidas Calientes",
+    "precio": 11650,
+    "stock": 2,
+    "ruta": "Caramel-Macchiato.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Mocha Latte",
+    "categoria": "Bebidas Calientes",
+    "precio": 10500,
+    "stock": 0,
+    "ruta": "Mocha Latte-12.png"
+  },
+  {
+    "id": 15,
+    "nombre":"Mocha Blanco Latte",
+    "categoria": "Bebidas Calientes",
+    "precio": 10500,
+    "stock": 1,
+    "ruta": "Mocha Blanco-11.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Chocolate Caliente",
+    "categoria": "Bebidas Calientes",
+    "precio": 12300,
+    "stock": 5,
+    "ruta": "Chocolate.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Chocolate Blanco",
+    "categoria": "Bebidas Calientes",
+    "precio": 13500,
+    "stock": 2,
+    "ruta": "Chocolate blanco.png"
+  },
+  {
+    "id": 18,
+    "nombre": "Latte Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 8500,
+    "stock": 2,
+    "ruta": "Latte Helado.png"
+  },
+  {
+    "id": 19,
+    "nombre": "Dolce Canela Latte Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 8700,
+    "stock": 3,
+    "ruta": "DOLCE CANELA LATTE HELADO.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Arequipe Latte Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 9500,
+    "stock": 3,
+    "ruta": "AREQUIPE LATTE HELADO.png"
+  },
+  {
+    "id": 21,
+    "nombre": "Chocolate Shaken Espresso",
+    "categoria": "Bebidas Frias",
+    "precio": 11690,
+    "stock": 2,
+    "ruta": "CHOCOLATE_SHAKEN_ESPRESSO.jpg"
+  },
+  {
+    "id": 22,
+    "nombre": "Avellana Shaken Espresso",
+    "categoria": "Bebidas Frias",
+    "precio": 16500,
+    "stock": 0,
+    "ruta": "AVELLANA SHAKEN ESPRESSO.png"
+  },
+  {
+    "id": 23,
+    "nombre": "Espresso Americano Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 14500,
+    "stock": 2,
+    "ruta": "ESPRESSO- AMERICANO-HELADO.png"
+  },
+  {
+    "id": 24,
+    "nombre": "Flat White Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 12600,
+    "stock": 4,
+    "ruta": "IcedFlatWhite.png"
+  },
+  {
+    "id": 25,
+    "nombre": "Latte Macchiato Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 15800,
+    "stock": 2,
+    "ruta": "Iced Cloud Latte Macchiato.png"
+  },
+  {
+    "id": 26,
+    "nombre": "Caramel Macchiato Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 12600,
+    "stock": 5,
+    "ruta": "CARAMEL-MACCHIATO-HELAD.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Mocha Latte Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 13650,
+    "stock": 2,
+    "ruta": "MOCHA-LATTE-HELADO-VIDRIO.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Mocha Blanco Helado",
+    "categoria": "Bebidas Frias",
+    "precio": 14790,
+    "stock": 4,
+    "ruta": "MOCHA-BLANCO-HELADO-VIDRIO.png"
+  },
+  {
+    "id": 29,
+    "nombre": "Cold Brew con Leche de Almendras",
+    "categoria": "Bebidas Frias",
+    "precio": 18900,
+    "stock": 4,
+    "ruta": "COLD BREW LECHE DE ALMENDRAS.png"
+  },
+  {
+    "id": 30,
+    "nombre": "Cold Brew",
+    "categoria": "Bebidas Frias",
+    "precio": 13000,
+    "stock": 0,
+    "ruta": "COLD BREW.png"
+  },
+  {
+    "id": 31,
+    "nombre": "Vainilla Sweet Cream Cold Brew",
+    "categoria": "Bebidas Frias",
+    "precio": 13600,
+    "stock": 1,
+    "ruta": "VAINILLA SALTED COLD BREW.png"
+  },
+  {
+    "id": 32,
+    "nombre": "Salted Caramel Cream Nitro Cold Brew",
+    "categoria": "Bebidas Frias",
+    "precio": 12460,
+    "stock": 1,
+    "ruta": "SALTED CARAMEL NITRO COLD BREW.png"
+  },
+  {
+    "id": 33,
+    "nombre": "Salted Caramel Cream Cold Brew",
+    "categoria": "Bebidas Frias",
+    "precio": 13590,
+    "stock": 3,
+    "ruta": "SALTED CARAMEL COLD BREW.png"
+  },
+  {
+    "id": 34,
+    "nombre": "Nitro Cold Brew",
+    "categoria": "Bebidas Frias",
+    "precio": 12300,
+    "stock": 2,
+    "ruta": "NITRO COLD BREW.png"
+  },
+  {
+    "id": 35,
+    "nombre": "Brownie con chuncks de chocolate",
+    "categoria": "Panaderia",
+    "precio": 8950,
+    "stock": 4,
+    "ruta": "BROWNIE.png"
+  },
+  {
+    "id": 36,
+    "nombre": "Donut Bombón",
+    "categoria": "Panaderia",
+    "precio": 5400,
+    "stock": 2,
+    "ruta": "DONA-BOMBON.jpg"
+  },
+  {
+    "id": 37,
+    "nombre": "Rollo de Canela",
+    "categoria": "Panaderia",
+    "precio": 9900,
+    "stock": 1,
+    "ruta": "Rollo-canela_1.png"
+  },
+  {
+    "id": 38,
+    "nombre": "Muffin de Chocolate",
+    "categoria": "Panaderia",
+    "precio": 9500,
+    "stock": 1,
+    "ruta": "Muffin-chocolate_1.png"
+  },
+  {
+    "id": 39,
+    "nombre": "Muffin Arándanos",
+    "categoria": "Panaderia",
+    "precio": 9750,
+    "stock": 2,
+    "ruta": "MUFF 1_1.png"
+  },
+  {
+    "id": 40,
+    "nombre": "Pandebono",
+    "categoria": "Panaderia",
+    "precio": 5900,
+    "stock": 1,
+    "ruta": "PAN-DE-BONO-WEB.jpg"
+  },
+  {
+    "id": 41,
+    "nombre": "Palito de Queso",
+    "categoria": "Panaderia",
+    "precio": 7900,
+    "stock": 3,
+    "ruta": "PALITO-QUESO.png"
+  },
+  {
+    "id": 42,
+    "nombre": "Pastel de Carne",
+    "categoria": "Panaderia",
+    "precio": 9950,
+    "stock": 2,
+    "ruta": "PASTEL DE CARNE 1_1.png"
+  },
+  {
+    "id": 43,
+    "nombre": "Croissant Mantequilla",
+    "categoria": "Panaderia",
+    "precio": 10900,
+    "stock": 1,
+    "ruta": "CROISSANT-MANTEQUILLA.png"
+  },
+  {
+    "id": 44,
+    "nombre": "Croissant Almendras",
+    "categoria": "Panaderia",
+    "precio": 11950,
+    "stock": 3,
+    "ruta": "CROISSANT-ALMENDRAS-160X160 (1).png"
+  },
+  {
+    "id": 45,
+    "nombre": "Arepa con Queso",
+    "categoria": "Panaderia",
+    "precio": 5900,
+    "stock": 3,
+    "ruta": "AREPA_DE_QUESO.png"
+  },
+  {
+    "id": 46,
+    "nombre": "Torta de amapola",
+    "categoria": "Panaderia",
+    "precio": 8950,
+    "stock": 2,
+    "ruta": "TORTA_AMAPOLA.png"
+  },
+  {
+    "id": 47,
+    "nombre": "Torta de Zanahoria",
+    "categoria": "Panaderia",
+    "precio": 8950,
+    "stock": 2,
+    "ruta": "TORTA-ZANAHORIA.png"
+  },
+  {
+    "id": 48,
+    "nombre": "Torta de Chocolate",
+    "categoria": "Panaderia",
+    "precio": 9990,
+    "stock": 3,
+    "ruta": "TORTA-CHOCOLATE_0.png"
+  },
+  {
+    "id": 49,
+    "nombre": "Torta de Limón",
+    "categoria": "Panaderia",
+    "precio": 8950,
+    "stock": 3,
+    "ruta": "TORTA_LIMON.png"
+  }
+]
